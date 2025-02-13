@@ -56,4 +56,3 @@ In **Development**.
   <img src="https://user-images.githubusercontent.com/56812557/213193515-db8473d2-4d2d-4e0f-9414-e06c7390dd6e.png" alt="Driver Popup/Modal" width="100%" height="100%" >
   
   
-## Dev :- Prakash Gupta
